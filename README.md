@@ -1,6 +1,12 @@
 # I'm TechyFeels
 
-I build AI projects focused on NLP text classification, recommendation systems, and computer vision. Most of my work involves experimenting with data, training models, and turning them into something practical. I use Python, PyTorch, HuggingFace, scikit-learn, YOLO, Pandas, NumPy, Colab, Kaggle Notebooks, and VS Code, and I treat this space as a place to put things I'm actively building.
+I build applied AI, machine learning, and data projects with a strong focus on real-world use cases.
+
+My work spans NLP text classification, regression and churn prediction, recommendation systems, computer vision, and Retrieval-Augmented Generation (RAG). I regularly work end-to-end — from data cleaning, feature engineering, and exploratory analysis to model training, evaluation, and deployment-ready pipelines.
+
+I have hands-on experience building RAG systems using LangChain with vector databases like Qdrant, as well as traditional ML workflows using scikit-learn and deep learning with PyTorch and HuggingFace.
+
+My stack includes Python, Pandas, NumPy, scikit-learn, PyTorch, HuggingFace, YOLO, LangChain, Qdrant, and tools like Kaggle, Google Colab, and VS Code. This GitHub is a living space for projects I’m actively building and refining.
 
 Before working with AI, I built several smart contracts and launched an ERC-20 token on Polygon using Solidity, Remix, etc. I also work with MetaMask, Ethers.js, and basic backend scripting when needed. I’ve also built multiple websites and product landing pages using WordPress as a fast way to ship ideas. Now I'm exploring how AI and Web3 can blend together into real products, while using tools like the GPT API, Make.com, and Flowise for automation and research workflows.
 
@@ -8,21 +14,30 @@ Before working with AI, I built several smart contracts and launched an ERC-20 t
 
 ## Tech Stack
 
-**AI & Machine Learning**  
-Python  
-PyTorch  
-HuggingFace Transformers  
-scikit-learn  
-YOLO  
-Pandas & NumPy  
-Jupyter / Colab / Kaggle Notebooks
+AI, Machine Learning & RAG
+Python
+PyTorch
+HuggingFace Transformers
+scikit-learn (classification & regression)
+LangChain
+Retrieval-Augmented Generation (RAG)
+Qdrant (vector database)
+YOLO (computer vision)
 
-**Development & Product Tools**  
-VS Code  
-Git & GitHub  
-REST API basics  
-Backend scripting with Python  
-WordPress (landing pages, product websites, rapid MVPs)
+Data Analysis & Modeling
+Pandas
+NumPy
+Feature engineering
+Model evaluation & metrics
+
+Development & Tooling
+VS Code
+Git & GitHub
+Python-based APIs & pipelines
+Notebook-driven experimentation (Jupyter / Colab / Kaggle)
+
+Web & Rapid MVP
+WordPress (landing pages, product sites, fast MVP validation)
 
 **Blockchain / Web3**  
 Solidity  
